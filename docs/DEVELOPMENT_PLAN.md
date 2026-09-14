@@ -1,6 +1,6 @@
 # Development plan
 
-Each stage is a separate commit with tests for the behavior it adds. Stage 1 is complete; stages 2–22 are planned.
+Each stage is a separate commit with tests for the behavior it adds. Stages 1–2 are complete; stages 3–22 are planned.
 
 ## Design constraints
 
